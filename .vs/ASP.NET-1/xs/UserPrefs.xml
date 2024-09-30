@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{F7083B0F-3F7A-4D4B-B65F-9C50CA5A5B71}|">
+  <MonoDevelop.Ide.ItemProperties.ASP.NET-1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP.NET-1/Default.aspx">
+    <Files>
+      <File FileName="ASP.NET-1/Default.aspx" Line="172" Column="162" IsPinned="True" />
+      <File FileName="ASP.NET-1/Default.aspx.cs" />
+      <File FileName="ASP.NET-1/ThankYou.aspx" />
+      <File FileName="ASP.NET-1/ThankYou.aspx.cs" />
+      <File FileName="ASP.NET-1/FormPage.aspx.cs" />
+      <File FileName="ASP.NET-1/FormSubmitted.aspx" />
+      <File FileName="ASP.NET-1/FormSubmitted.aspx.cs" />
+      <File FileName="ASP.NET-1/Web.config" />
+      <File FileName="ASP.NET-1/StudentFormApp.aspx.cs" />
+      <File FileName="ASP.NET-1/StudentFormApp.aspx" />
+      <File FileName="ASP.NET-1/ListStudent.aspx" />
+      <File FileName="ASP.NET-1/ListStudent.aspx.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP.NET-1" expanded="True">
+            <Node name="ASP.NET-1" expanded="True">
+              <Node name="Default.aspx" expanded="True" selected="True" />
+              <Node name="ListStudent.aspx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ASP.NET-1.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
